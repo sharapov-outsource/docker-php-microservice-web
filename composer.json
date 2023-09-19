@@ -1,0 +1,15 @@
+{
+  "name": "sharapov-outsource/docker-php-microservice-web",
+  "description": "Standalone web service",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexander S",
+      "email": "alexander@sharapov.biz"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  }
+}
